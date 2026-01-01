@@ -1,6 +1,6 @@
 Privacy Policy
 
-DaysBetween does not collect, store, or share any personal data.
+DateInterval Pro does not collect, store, or transmit any personal data.
 
-All calculations are performed locally on the device.
-No data is transmitted to external servers.
+All calculations, settings, and history remain fully on your device.
+The app does not use analytics, tracking technologies, or third-party services.
